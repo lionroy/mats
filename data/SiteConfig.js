@@ -3,7 +3,7 @@ module.exports = {
   siteTitleShort: "UP20 HQ Blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "UP20 Official Site", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://lionroy.github.io/github-UP20-Blog/", // Domain of your website without pathPrefix.
+  siteUrl: "https://lionroy.github.io/mats", // Domain of your website without pathPrefix.
   pathPrefix: "/UP20-2018", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "SDG ICT OSS Team with Earth and Humankind in mind.", // Website description used for RSS feeds/meta description tag.
@@ -24,7 +24,7 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://lionroy.github.io/github-UP20-Blog/",
+      url: "https://lionroy.github.io/mats",
       iconClassName: "fa fa-github"
     },
     {
